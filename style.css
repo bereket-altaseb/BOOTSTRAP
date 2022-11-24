@@ -1,0 +1,11 @@
+[class^="col"] {
+  background-color: blue;
+  border-right: white 1px solid;
+  padding-left: 1rem;
+  color: blanchedalmond;
+  margin-bottom: 1rem;
+}
+.row-container {
+  background-color: aquamarine;
+  min-height: 500px;
+}
