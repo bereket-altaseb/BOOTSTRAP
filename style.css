@@ -1,11 +1,6 @@
-[class^="col"] {
-  background-color: blue;
-  border-right: white 1px solid;
-  padding-left: 1rem;
-  color: blanchedalmond;
-  margin-bottom: 1rem;
+.header-container {
+  background-color: rgb(154, 96, 207);
 }
-.row-container {
-  background-color: aquamarine;
-  min-height: 500px;
+.footer {
+  background-color: rgb(194, 187, 187);
 }
